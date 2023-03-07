@@ -188,7 +188,7 @@ html{
     flex: 8;
 }
 .html-css-score{
-    width: 75%;
+    width: 65%;
 }
 .java-score{
     width: 50%;
@@ -197,7 +197,7 @@ html{
     width: 45%;
 }
 .c-score{
-    width: 85%;
+    width: 80%;
 }
 /* .nodejs-score{
     width: 60%;
